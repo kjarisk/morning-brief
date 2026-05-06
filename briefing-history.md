@@ -1,5 +1,16 @@
 # Briefing History
 
+## 2026-05-06
+- [Anthropic opens Code with Claude dev conference, Jupiter model in testing](news/2026-05-06-code-with-claude-conference-jupiter.md) — TOP STORY
+- [NIST inks pre-deployment AI safety testing deals with Google, Microsoft, xAI](news/2026-05-06-nist-caisi-frontier-ai-testing.md)
+- [Gemini 3.1 Flash-Lite launches in API preview: $0.25/1M tokens, 2.5× faster](news/2026-05-06-gemini-3-1-flash-lite-api-preview.md)
+- [Cohere acquires Aleph Alpha in $20B deal to build sovereign AI alternative](news/2026-05-06-cohere-acquires-aleph-alpha-sovereign-ai.md)
+- [PyTorch/XLA 2.7: call JAX functions inside PyTorch, 5× vLLM TPU speedup](news/2026-05-06-pytorch-xla-2-7-jax-bridge-vllm.md)
+- [context-mode: 98% context window reduction for AI coding agents](news/2026-05-06-context-mode-ai-agent-context-compression.md)
+- [DeepSeek-TUI: terminal-native coding agent for DeepSeek models](news/2026-05-06-deepseek-tui-terminal-coding-agent.md)
+- [YouTube: Code with Claude Opening Keynote — Anthropic's first dev conference](news/2026-05-06-youtube-code-with-claude-opening-keynote.md)
+- [Golf: Erika Larkin's 3-Tee Drill to control iron low point and clean contact](news/2026-05-06-golf-erika-larkin-3-tee-drill.md)
+
 ## 2026-05-05
 - [Anthropic and OpenAI both launch enterprise AI JVs on the same day](news/2026-05-05-anthropic-openai-enterprise-jv-race.md) — TOP STORY
 - [xAI launches Grok 4.3 with voice cloning, 1M context, 40% price cut](news/2026-05-05-grok-4-3-voice-cloning-1m-context.md)
