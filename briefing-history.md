@@ -1,5 +1,17 @@
 # Briefing History
 
+## 2026-05-07
+- [Anthropic secures SpaceX Colossus 1: 220K GPUs, 300 MW after 80x Q1 growth](news/2026-05-07-anthropic-spacex-colossus-compute-deal.md) — TOP STORY
+- [ASML, Airbus, Mistral and four others demand simpler EU AI rules](news/2026-05-07-eu-ceos-ai-act-simplification.md)
+- [TabPFN trending: foundation model for tabular data now handles 50K rows](news/2026-05-07-tabpfn-tabular-foundation-model.md)
+- [local-deep-research: private research agent hits ~95% on SimpleQA](news/2026-05-07-local-deep-research-local-ai-agent.md)
+- [agent-skills: Addy Osmani's production engineering skills for AI coding agents](news/2026-05-07-agent-skills-coding-agents.md)
+- [Scrapling: Python web scraping that survives page redesigns and anti-bot systems](news/2026-05-07-scrapling-adaptive-web-scraping.md)
+- [Matt Wolfe: AI News — Anthropic Went Crazy This Week!](news/2026-05-07-youtube-matt-wolfe-anthropic-crazy-week.md)
+- [Boris Cherny at AI Ascent: why coding is solved and what comes next](news/2026-05-07-youtube-boris-cherny-coding-solved.md)
+- [Step drill for downswing sequencing: fix casting with one physical cue](news/2026-05-07-golf-step-drill-downswing-sequencing.md)
+- [Anthropic launches 'Dreaming' research preview: Claude agents improve overnight](news/2026-05-07-anthropic-dreaming-agents-self-improve.md)
+
 ## 2026-05-06
 - [Anthropic opens Code with Claude dev conference, Jupiter model in testing](news/2026-05-06-code-with-claude-conference-jupiter.md) — TOP STORY
 - [NIST inks pre-deployment AI safety testing deals with Google, Microsoft, xAI](news/2026-05-06-nist-caisi-frontier-ai-testing.md)
