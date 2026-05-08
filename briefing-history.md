@@ -1,5 +1,16 @@
 # Briefing History
 
+## 2026-05-08
+- [EU AI Act gets its first real haircut: high-risk rules pushed to 2027](news/2026-05-08-eu-ai-act-omnibus-2027-delay.md) — TOP STORY
+- [OpenAI drops three real-time voice API models with GPT-5-class reasoning](news/2026-05-08-openai-gpt-realtime-2-voice-models.md)
+- [GPT-5.5 Instant is ChatGPT's new default: 52% fewer hallucinations](news/2026-05-08-openai-gpt-55-instant-chatgpt-default.md)
+- [EU weighs forcing government sensitive data off US cloud platforms](news/2026-05-08-eu-cloud-data-us-platform-restrictions.md)
+- [PageIndex: RAG without vectors, using tree search and LLM reasoning](news/2026-05-08-pageindex-vectorless-rag.md)
+- [InsForge: Postgres backend platform built specifically for AI coding agents](news/2026-05-08-insforge-backend-coding-agents.md)
+- [Theo (t3.gg): Claude Code desktop app — powerful but bug-ridden launch](news/2026-05-08-youtube-theo-claude-code-desktop-review.md)
+- [Anthropic ships 10 ready-to-run Claude agents for financial services](news/2026-05-08-anthropic-finance-agents-wall-street.md)
+- [Bunker tip: stop hitting behind the ball — enter sand ahead of it](news/2026-05-08-golf-bunker-forward-entry-drill.md)
+
 ## 2026-05-07
 - [Anthropic secures SpaceX Colossus 1: 220K GPUs, 300 MW after 80x Q1 growth](news/2026-05-07-anthropic-spacex-colossus-compute-deal.md) — TOP STORY
 - [ASML, Airbus, Mistral and four others demand simpler EU AI rules](news/2026-05-07-eu-ceos-ai-act-simplification.md)
